@@ -1,4 +1,4 @@
-# Manasseh Joy — Badminton Coaching & Performance Website
+# Jonnalagadda Manasseh Joy — Badminton Coaching & Performance Website
 
 A responsive static portfolio with a playable video gallery. It uses HTML, CSS and JavaScript and can be hosted on GitHub Pages for free.
 
